@@ -16,17 +16,24 @@
 
  <summary><b>🛠 Tech Stack/ Certifications</b></summary>
 Languages:
-<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
-
-<img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat">&nbsp;
 <br>
-
+<p>
+<i>  --> C++</i><br>
+<i>    --> Python</i><br>
+</p>
 Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
+<br>
+<i>  --> SFML Library (C++)</i><br>
+<i>    --> MATH Library (C++)</i><br>
+<i>      --> ALGORITHM Library (C++)</i><br>
 
+
+<br>
 Tools and Platforms: 
 <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
 
+<br>
 Operating Systems:
 <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
