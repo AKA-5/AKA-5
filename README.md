@@ -7,25 +7,26 @@
 </p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Undergrad Computer Science (Student) | Enthusiastic Explorer <br>
-💬 Ask me about Tech & Hackathons (I would love to learn more about it 😉).<br>
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="200px" max-width="300px" width="250px" align="right"> 
+✨ Undergrad Computer Science (Student) | Enthusiastic Explorer <br><br>
+💬 Ask me about Tech & Hackathons (I would love to learn more about it 😉).<br><br>
 <!--- Adding Tech Stack open Section -->
 
 
 
- <summary><b>🛠 Tech Stack/ Certifications</b></summary><br>
-Languages: 
+ <summary><b>🛠 Tech Stack/ Certifications</b></summary>
+Languages:
 <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"> &nbsp; <br>
-Frameworks and Libraries: <!--- Frameworks and Libraries goes here --><br>
+
+<img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat">&nbsp;
+<br>
+
+Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
+
 Tools and Platforms: 
 <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
-<!---<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;
-<img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat"> -->
-<!--- <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat"> --><br>
+
 Operating Systems:
 <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
