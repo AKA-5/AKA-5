@@ -8,7 +8,7 @@
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="200px" max-width="300px" width="250px" align="right"> 
-✨ Undergrad Computer Science (Student) | Enthusiastic Explorer <br><br>
+✨ Undergrad Computer Science (Student) | Section Leader @Stanford Code In Place 2025 | Enthusiastic Explorer <br><br>
 💬 Ask me about Tech & Hackathons (I would love to learn more about it 😉).<br><br>
 <!--- Adding Tech Stack open Section -->
 
