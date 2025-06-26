@@ -18,7 +18,9 @@
 Languages:
 <br>
 <p>
-<i>  --> C++</i><br>
+<i>  --> C++/C</i><br>
+<i>  --> SQL</i><br>
+<i>  --> x86 Assembly Language</i><br>
 <i>    --> Python</i><br>
 </p>
 Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
