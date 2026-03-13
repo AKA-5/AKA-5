@@ -4,7 +4,11 @@ on:
   schedule:
     # Runs automatically every day at 00:00 UTC
     - cron: "0 0 * * *"
-  workflow_dispatch:  # Allows you to manually trigger the action
+  workflow_dispatch:  # Allows manual trigger
+
+# Explicit permissions for the GITHUB_TOKEN
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -12,7 +16,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # Updated to v4
 
       - name: Generate the snake SVG
         uses: Platane/snk@v3
@@ -22,8 +26,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push the generated files to the output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4  # Updated to v4
         with:
           target_branch: output
           build_dir: dist
