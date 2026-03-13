@@ -41,27 +41,27 @@ Computer Science student at FAST NUCES with hands-on experience in full-stack we
 
 <p align="center">
   <a href="https://github.com/AKA-5">
-    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AKA-5&show_icons=true&theme=light&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AKA-5&layout=compact&langs_count=8&theme=light&hide_border=true&title_color=000000&text_color=333333" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AKA-5&show_icons=true&theme=light&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AKA-5&layout=compact&langs_count=8&theme=light&hide_border=true&title_color=000000&text_color=333333" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=AKA-5&theme=light&hide_border=true&card_width=400" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=AKA-5&theme=light&hide_border=true&card_width=500" alt="GitHub Streak" />
   </a>
 </p>
 
 <!-- Contribution graph - further reduced -->
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=AKA-5&theme=github-light&bg_color=ffffff&color=C19A6B&line=C19A6B&point=C19A6B&area=true&hide_border=true" alt="activity graph">
+    <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=AKA-5&theme=github-light&bg_color=ffffff&color=C19A6B&line=C19A6B&point=C19A6B&area=true&hide_border=true" alt="activity graph">
   </a>
 </p>
 
 <!-- Snake animation - proportionally smaller -->
 <p align="center">
-  <img width="70%" src="https://raw.githubusercontent.com/AKA-5/AKA-5/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img width="80%" src="https://raw.githubusercontent.com/AKA-5/AKA-5/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
