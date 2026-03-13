@@ -201,6 +201,4 @@ Custom VCS mimicking core Git functionalities (branching, commit logic) to demon
   <a href="https://leetcode.com/u/kaleempk555/">LeetCode</a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AKA-5/AKA-5/main/footer.svg" width="100%" alt="footer wave">
-</p>
+<img src="https://raw.githubusercontent.com/AKA-5/AKA-5/main/footer.svg" style="max-height: 60px; width: 100%;" alt="footer wave">
