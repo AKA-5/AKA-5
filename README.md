@@ -202,5 +202,5 @@ Custom VCS mimicking core Git functionalities (branching, commit logic) to demon
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AKA-5/AKA-5/main/footer.svg" width="100%" alt="footer wave" />
+  <img src="https://raw.githubusercontent.com/AKA-5/AKA-5/main/footer.svg" width="100%" alt="footer wave">
 </p>
