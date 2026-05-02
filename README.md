@@ -27,7 +27,8 @@
 
 Computer Science student at FAST NUCES with hands-on experience in full-stack web and Android development, UI/UX design, and cloud infrastructure. Strong foundation in product thinking, KPI design, and stakeholder communication. Experienced in leading, teaching, and collaborating in cross‑functional and global environments.
 
-- 🔭 Worked on **Indoor Navigation Platform (IntraMap)**  
+- 🔭 Built frontend at **HackUPC 2026** – Europe's biggest in-person hackathon (Barcelona)  
+- 🚀 Featured project: **DreamTrip** – AI travel companion  
 - 🌱 Learning **Product Management** and **Software Development**  
 - 👨‍🏫 Section Leader @ **Stanford Code In Place 2025**  
 - 💬 Ask me about **Product, Android, or Hackathons**  
@@ -75,6 +76,21 @@ Computer Science student at FAST NUCES with hands-on experience in full-stack we
 
 ## Featured Projects
 
+### ✈️ DreamTrip – AI Travel Companion (HackUPC 2026 – Barcelona)
+*React, Material UI, FastAPI, Google Gemini, ElevenLabs*
+[![GitHub Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AKA-5/HackUPC-DreamTrip)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/software/dreamtrip)
+
+**🏆 Europe's biggest in-person hackathon | 36 hours | 700 students | 26 countries**
+
+Built the complete frontend for an AI travel app that turns emotional prompts into ranked city recommendations. Assembled a 4-person team onsite at HackUPC 2026 in Barcelona. Shipped a polished, working demo to judges.
+
+**What I built:** Search interface, destination cards, loading states, voice narration playback, full responsive UI using React + Material UI.
+
+**Tech stack:** React, JavaScript, Material UI, REST APIs, FastAPI backend integration, Google Gemini AI, ElevenLabs voice synthesis.
+
+---
+
 ### 🧭 IntraMap – Indoor Navigation Platform  
 *JavaScript, Fabric.js, Cloudflare Workers, PWA*  
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge)](https://intra-map-six.vercel.app)  
@@ -90,7 +106,7 @@ Feature‑rich app with posts, stories, likes, comments, real‑time messaging, 
 
 ### ✉️ LinkedIn Messaging Redesign  
 *Canva (UX/UI)*  
-Redesigned LinkedIn’s desktop messaging to full‑screen layout focusing on readability, accessibility, and multitasking. Applied user research and wireframing principles.
+Redesigned LinkedIn's desktop messaging to full‑screen layout focusing on readability, accessibility, and multitasking. Applied user research and wireframing principles.
 
 ### 🧳 TravelEase – Travel Booking Platform  
 *C#, SQL, MS Visual Studio*  
@@ -108,7 +124,7 @@ Custom VCS mimicking core Git functionalities (branching, commit logic) to demon
 
 ## Skills
 
-<!-- Icons with labels – covering both product and software roles -->
+<!-- Product & Management -->
 <p align="center">
   <img src="https://img.shields.io/badge/Product%20Management-8B6B4D?style=for-the-badge&logo=product-hunt&logoColor=white" />
   <img src="https://img.shields.io/badge/Agile-00897B?style=for-the-badge&logo=agile&logoColor=white" />
@@ -118,24 +134,34 @@ Custom VCS mimicking core Git functionalities (branching, commit logic) to demon
   <img src="https://img.shields.io/badge/User%20Research-795548?style=for-the-badge&logo=users&logoColor=white" />
 </p>
 
+<!-- Frontend & Mobile (HackUPC stack first) -->
 <p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+<!-- Backend & Databases -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+</p>
+
+<!-- Web Fundamentals -->
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
+<!-- DevOps & Tools -->
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
