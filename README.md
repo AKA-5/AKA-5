@@ -1,225 +1,143 @@
-<!-- Header with typing animation (light brown theme) -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=C19A6B&center=true&vCenter=true&width=500&lines=Muhammad+Kaleem+Akhtar;Computer+Science+Student;Aspiring+Product+Manager" alt="Typing SVG" />
-  </a>
-</p>
+# Muhammad Kaleem Akhtar
 
-<!-- Social badges with icons -->
-<p align="center">
-  <a href="mailto:kaleempk555@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kaleemakhtar-pm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/kaleempk555/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.hackerrank.com/profile/kaleempk555"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://github.com/AKA-5"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+**Computer Science @ FAST NUCES Islamabad** &nbsp;|&nbsp; Expected Graduation: August 2027
 
-<!-- Visitor counter with light brown -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AKA-5&label=Profile%20Views&color=C19A6B&style=flat" alt="Profile views" />
-</p>
+I build software that ships. My work sits at the intersection of product thinking and engineering. I care about why something is being built as much as how. Currently focused on AI-integrated systems and mobile development, with a parallel interest in product management and how good software decisions get made.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaleemakhtar-pm)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kaleempk555@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/kaleempk555/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/kaleempk555)
 
 ---
 
-## About Me
+## Selected Projects
 
-<img align="right" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="250px" alt="illustration">
+**[AIDEN — Agentic Crisis Response Orchestrator](https://github.com/AKA-5/AIDEN)**
+`Kotlin` `Jetpack Compose` `Gemini AI` `Firebase`
 
-Computer Science student at FAST NUCES with hands-on experience in full-stack web and Android development, UI/UX design, and cloud infrastructure. Strong foundation in product thinking, KPI design, and stakeholder communication. Experienced in leading, teaching, and collaborating in cross‑functional and global environments.
-
-- 🔭 Built frontend at **HackUPC 2026** – Europe's biggest in-person hackathon (Barcelona)  
-- 🚀 Featured project: **DreamTrip** – AI travel companion  
-- 🌱 Learning **Product Management** and **Software Development**  
-- 👨‍🏫 Section Leader @ **Stanford Code In Place 2025**  
-- 💬 Ask me about **Product, Android, or Hackathons**  
-- 📫 Reach me at **kaleempk555@gmail.com**
-
-<br clear="right"/>
+Three-agent Android app built for the Google Antigravity Hackathon 2026. Sentinel detects and classifies disaster reports from natural language input (English + Roman Urdu), Planner generates prioritized response checklists, Executor simulates outcomes. Includes full architecture documentation: MASTER\_PLAN.md, API\_REFERENCE.md, SETUP\_GUIDE.md.
 
 ---
 
-## GitHub Analytics
+**[QuickDine AI — Restaurant Pre-order Platform](https://github.com/AKA-5/QuickDine)** &nbsp;·&nbsp; [Live](https://quickdine-one.vercel.app)
+`React 18` `Gemini 2.5 Flash` `Firebase` `Tailwind CSS v4`
 
-<p align="center">
-  <a href="https://github.com/AKA-5">
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AKA-5&show_icons=true&theme=light&include_all_commits=true&count_private=true&hide_border=true&font_size=18" />
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AKA-5&layout=compact&langs_count=8&theme=light&hide_border=true&title_color=000000&text_color=333333&font_size=18" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=AKA-5&theme=light&hide_border=true&card_width=500" alt="GitHub Streak" />
-  </a>
-</p>
-
-<!-- Contribution graph - further reduced -->
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=AKA-5&theme=github-light&bg_color=ffffff&color=C19A6B&line=C19A6B&point=C19A6B&area=true&hide_border=true" alt="activity graph">
-  </a>
-</p>
+Full-stack AI dine-in platform built for the Google Gen AI Academy APAC Meet the Builders campaign. Gemini 2.5 Flash pipeline injects user taste profile context into every recommendation query. Includes a real-time Kanban ops board for kitchen managers and a floating AI chat assistant. Live in production.
 
 ---
 
-## Experience & Leadership
+**[DreamTrip — AI Travel Companion](https://github.com/AKA-5/HackUPC-DreamTrip)** &nbsp;·&nbsp; [Devpost](https://devpost.com/software/dreamtrip)
+`React` `Material UI` `FastAPI` `Google Gemini` `ElevenLabs`
 
-| Role | Organization | Duration |
-|------|--------------|----------|
-| **Career Launchpad Trainee** (Top Trainee) | Ai DataYard | July 2025 – Aug 2025 |
-| **Section Leader** | Stanford Code In Place | April 2025 – June 2025 |
-| **Hosting & Operations Member** | FAST Software Engineering Society | Aug 2024 – 2025 |
-| **Product Management Intern (Simulation)** | Electronic Arts (Forage) | July 2025 |
-| **Project Management Intern (Simulation)** | Siemens Mobility (Forage) | July 2025 |
+Built the complete frontend at HackUPC 2026 in Barcelona — Europe's largest in-person hackathon — as the sole frontend developer on a 4-person team assembled onsite. Delivered a working demo to judges in 36 hours: emotional search, ranked destination cards, voice narration playback, full REST API integration with a FastAPI + Gemini backend.
 
 ---
 
-## Featured Projects
+**[Socially — Android Social App](https://github.com/AKA-5/Socially-Android-App-2.0)**
+`Kotlin` `XML` `Firebase` `SQLite` `Espresso`
 
-### ✈️ DreamTrip – AI Travel Companion (HackUPC 2026 – Barcelona)
-*React, Material UI, FastAPI, Google Gemini, ElevenLabs*
-[![GitHub Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AKA-5/HackUPC-DreamTrip)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/software/dreamtrip)
-
-**🏆 Europe's biggest in-person hackathon | 36 hours | 700 students | 26 countries**
-
-Built the complete frontend for an AI travel app that turns emotional prompts into ranked city recommendations. Assembled a 4-person team onsite at HackUPC 2026 in Barcelona. Shipped a polished, working demo to judges.
-
-**What I built:** Search interface, destination cards, loading states, voice narration playback, full responsive UI using React + Material UI.
-
-**Tech stack:** React, JavaScript, Material UI, REST APIs, FastAPI backend integration, Google Gemini AI, ElevenLabs voice synthesis.
+Feature-complete social networking app: posts, stories, likes, comments, real-time messaging, push notifications via Firebase Cloud Messaging. Pixel-perfect XML UI with RecyclerView and CardView. REST APIs tested with Postman. Espresso UI test coverage on critical flows.
 
 ---
 
-### 🧭 IntraMap – Indoor Navigation Platform  
-*JavaScript, Fabric.js, Cloudflare Workers, PWA*  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge)](https://intra-map-six.vercel.app)  
-Building admin‑friendly floor plan editor with drag‑and‑drop, multi‑floor support, cloud save, QR code sharing, and offline‑capable PWA viewer.
+**[IntraMap — Indoor Navigation Platform](https://github.com/AKA-5/IntraMap)** &nbsp;·&nbsp; [Live](https://intra-map-six.vercel.app)
+`JavaScript` `Fabric.js` `Cloudflare Workers` `PWA`
 
-### 📱 Connect – Event Discovery Android App  
-*Kotlin, Firebase, SQLite, REST APIs*  
-Centralized platform for students and organizers: event listings, search, registration, offline‑first sync, secure authentication. Team of 3, used GitHub for collaboration.
+Web app for building admins to create interactive floor plans with a drag-and-drop canvas editor, multi-floor support, and cloud save via Cloudflare Workers + KV. Mobile-first visitor viewer with QR code sharing and offline PWA support.
 
-### 💬 Socially – Social Networking Android App  
-*Kotlin, Firebase, XML, Postman*  
-Feature‑rich app with posts, stories, likes, comments, real‑time messaging, push notifications, and Espresso UI tests. Pixel‑perfect UI with complex screen components.
+---
 
-### ✉️ LinkedIn Messaging Redesign  
-*Canva (UX/UI)*  
-Redesigned LinkedIn's desktop messaging to full‑screen layout focusing on readability, accessibility, and multitasking. Applied user research and wireframing principles.
+**[ClassroomSync Tasks — Chrome Extension](https://github.com/AKA-5/ClassroomSync-Task)**
+`JavaScript ES Modules` `Manifest V3` `Google Classroom API` `Google Tasks API`
 
-### 🧳 TravelEase – Travel Booking Platform  
-*C#, SQL, MS Visual Studio*  
-Full‑stack MVP simulating travel bookings with user flows and database management.
+Chrome extension that converts Google Classroom announcements into Google Tasks with extracted due dates and priority levels. Regex-based NLP for date extraction. Auto-sync on configurable intervals. Fully local, no external servers.
 
-### 🎮 Run from Darkness – Hackathon Game  
-*Unity, C#*  
-3D game prototype with WASD movement and collision detection developed in 48 hours for AWS Game Builder Challenge.
+---
 
-### 🔧 GitLite – Version Control System  
-*C++, Data Structures*  
-Custom VCS mimicking core Git functionalities (branching, commit logic) to demonstrate system design and algorithmic optimization.
+**[CipherStack — Visual Cascade Encryption Builder](https://github.com/AKA-5/Vyrothon-Cipherstack)** &nbsp;·&nbsp; [Live](https://cipherstack-eight.vercel.app)
+`Vanilla HTML5` `CSS3 Grid` `JavaScript ES6+`
+
+Zero-dependency browser tool for chaining Caesar, XOR, and Vigenere ciphers into a visual encryption pipeline with intermediate output display and guaranteed round-trip correctness. Built in 1.5 hours for VyroThon 2026 at NSTP.
+
+---
+
+**[LinkedIn Messaging Redesign — Product & UX Case Study](https://www.canva.com/design/DAGvp-0SNio/40oTQJBINq1FWODQWV5CIg/view)**
+`Figma` `UX Research` `Wireframing`
+
+Redesigned LinkedIn's desktop messaging interface into a high-fidelity full-screen layout focused on readability, accessibility, and multitasking. Applied user research and wireframing principles throughout.
+
+---
+
+**[Connect — Event Discovery Android App](https://github.com/AKA-5/Connect-Android)**
+`Kotlin` `XML` `SQLite` `Firebase`
+
+Android app connecting students with event organizers: event listings, search, registration workflows, and an offline-first SQLite architecture with Firebase cloud sync. Built in a 3-member team.
+
+---
+
+**[GitLite — Version Control System](https://github.com/AKA-5/GitLite-Project)**
+`C++`
+
+Custom VCS implementing core Git functionality: branching logic, commit history, diff tracking. Built to apply data structures concepts in a real system design context.
 
 ---
 
 ## Skills
 
-<!-- Product & Management -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Product%20Management-8B6B4D?style=for-the-badge&logo=product-hunt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile-00897B?style=for-the-badge&logo=agile&logoColor=white" />
-  <img src="https://img.shields.io/badge/KPI%20Tracking-6D4C41?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Product%20Roadmaps-5D4037?style=for-the-badge&logo=map&logoColor=white" />
-  <img src="https://img.shields.io/badge/Market%20Analysis-8D6E63?style=for-the-badge&logo=analytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/User%20Research-795548?style=for-the-badge&logo=users&logoColor=white" />
-</p>
-
-<!-- Frontend & Mobile (HackUPC stack first) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-<!-- Backend & Databases -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-</p>
-
-<!-- Web Fundamentals -->
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-<!-- DevOps & Tools -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</p>
+| Area | Stack |
+|------|-------|
+| AI & LLM | Gemini AI (2.5 Flash), Firebase Generative AI SDK, Agentic Pipeline Design, Prompt Engineering |
+| Mobile | Kotlin, Jetpack Compose, XML Layouts, RecyclerView, Android Studio, SQLite, Firebase SDK |
+| Web | React 18, JavaScript (ES6+), Tailwind CSS, Material UI, Vite, HTML5/CSS3, PWA, Vercel |
+| Backend | Firebase (Firestore, Auth, Realtime DB, Cloud Messaging), Cloudflare Workers, FastAPI |
+| Languages | Python, JavaScript, Kotlin, C++, C, x86 Assembly |
+| Databases | SQL, MySQL, SQLite, Firestore, MS Access |
+| Tools | Git/GitHub, Docker, Postman, Android Studio, Figma, Canva |
+| Product | Agile, KPI Design, Product Roadmaps, User Research, Wireframing, Figma |
 
 ---
 
-## Certifications & Honors
+## Experience
 
-- 🏅 **LinkedIn Learning**: Explore Career in Product Management  
-- 🏅 **HackerRank SQL Certification**  
-- 🏅 **Google Soft Skills Program (PAFLA)**  
-- 🏅 **MIT Informatics Tournament M(IT)² Winter 2025** – Participant  
-- 🏅 **Community Service Project**: Led admission seminars for 400+ students (90%+ satisfaction)
+**[Top Trainee — Ai DataYard](https://drive.google.com/file/d/1GJ-zs7Jtx4fbCjIhJ4pmOcVNu_Vad88W/view?usp=sharing)** *(July–August 2025)*
+Recognized out of 12 participants in a 7-week applied data analytics and product marketing program. Delivered the PakHandy capstone project. LinkedIn content reached 13,972 impressions.
 
-<!-- GSSOC badges (from original README) -->
-<details>
-  <summary><b>🏆 GSSOC(24) Badges</b></summary>
-  <div align="center">
-    <a href="https://gssoc.girlscript.tech/leaderboard">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="80px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="80px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="80px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="80px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="80px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="80px" />
-    </a>
-  </div>
-</details>
+**[Section Leader — Stanford Code in Place](https://drive.google.com/file/d/1Fv7F30d7perEoWdnS7xW31xJGxpYmW4Q/view?usp=sharing)** *(April–June 2025)*
+Selected to teach Python to 10-12 global learners via weekly Zoom sessions. Designed visual presentations to simplify CS concepts. Gathered iterative feedback via Google Forms.
+
+**[Hosting & Operations — FAST Software Engineering Society](https://drive.google.com/file/d/1g7MEZXYL87ctO6OR2YrTBH33kpdZJpQS/view?usp=sharing)** *(August 2024–2025)*
+Managed TEDxFAST (Feb 2026), the FAST-NUCES Job Fair (May 2026, 200+ companies), and the Welcome Party for the Class of 2024 (300+ attendees).
+
+**[Product Management Intern (Simulation) — Electronic Arts](https://drive.google.com/file/d/15qJzmERWcAhuMS4aZ_MPyAASvsr3jlrB/view?usp=sharing)** *(Forage, July 2025)*
+Defined KPIs for an RPG mobile game product strategy. Built a data-driven pitch presentation around product-market fit and user retention.
+
+**[Project Management Intern (Simulation) — Siemens Mobility](https://drive.google.com/file/d/1QGfeaB-wMIhkwIJzREdZb14F3HDez1Ms/view?usp=sharing)** *(Forage, July 2025)*
+Developed strategic KPIs and dashboard reporting for a rail infrastructure project. Communicated progress and risks to stakeholders using Excel and data visualization.
 
 ---
 
-## Recent Activity
+## Research
 
-<!--START_SECTION:activity-->
-<!-- This section is automatically updated by a GitHub Action. 
-     To enable it, you can use "github-activity-readme". 
-     Example workflow is provided in the setup notes. -->
-*No recent activity recorded automatically. Setup a GitHub Action to track public activity.*
-<!--END_SECTION:activity-->
+**[Early Detection of Unstable Aircraft Approaches Using GenAI and Autonomous Decision Agents](https://drive.google.com/file/d/1yKfHuZG-Lvxt-kwtywUopjS8S7vMSAQ9/view?usp=sharing)**
+IEEE Conference Paper — IRAI 2026 | Transaction ID: IRAI26-000207 | Under Peer Review
+
+Co-authored with Imaad Fazal and Muhammad Fatik Bin Imran. Applied generative AI models and autonomous agent design to detect unstable aircraft approach patterns.
 
 ---
 
-<p align="center">
-  <b>Let's connect and build something amazing together.</b><br>
-  <a href="mailto:kaleempk555@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/kaleemakhtar-pm/">LinkedIn</a> ·
-  <a href="https://leetcode.com/u/kaleempk555/">LeetCode</a>
+## Certifications
+
+- [LinkedIn Learning: Explore a Career in Product Management](https://drive.google.com/file/d/1HYX7ljVLiXrlHmxHWF6dLHeOdHmRfAVL/view?usp=sharing)
+- [HackerRank SQL Certification](https://drive.google.com/file/d/1aJxbI1zmLbpHthZoOR3cXtUt9G6C5vhY/view?usp=sharing)
+- [Google Soft Skills Program (PAFLA)](https://drive.google.com/file/d/1gkwEW-zmluM2Rm56cQWpIOZb0xVOAqP7/view?usp=sharing)
+- [EF SET English Certificate — C2 Proficient (73/100)](https://cert.efset.org/yrwSEm)
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AKA-5&show_icons=true&theme=light&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AKA-5&layout=compact&langs_count=6&theme=light&hide_border=true" />
 </p>
-
-<img src="https://raw.githubusercontent.com/AKA-5/AKA-5/main/footer.svg" style="max-height: 60px; width: 100%;" alt="footer wave">
